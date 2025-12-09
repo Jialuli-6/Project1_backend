@@ -1,8 +1,6 @@
 This repo includes backend documents.</br>
 
 
-<h2>Environment Requirements</h2>
-
 <h3>Basic Dependencies</h3>
 • Operating System: Windows/macOS/Linux•Python 3.8+</br>
 • Node.js 14.x+ and npm 6.x+</br>
