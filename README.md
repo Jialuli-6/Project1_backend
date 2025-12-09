@@ -67,7 +67,8 @@ pip install flask flask-cors pandas numpy
 python app.py
 ```
 
-The service will run at http://0.0.0.0:5000. </br>
-Verify startup by accessing http://localhost:5000/api/paper-counts.
+• The service will run at http://0.0.0.0:5000. </br>
+• For macOS, disable AirPlay to avoid port deprecation</br>
+• Verify startup by accessing http://localhost:5000/api/paper-counts.</br>
 
 
