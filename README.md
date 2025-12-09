@@ -2,7 +2,8 @@ This repo includes backend documents.</br>
 
 
 <h3>Basic Dependencies</h3>
-• Operating System: Windows/macOS/Linux•Python 3.8+</br>
+• Operating System: Windows/macOS/Linux</br>
+• Python 3.8+</br>
 • Node.js 14.x+ and npm 6.x+</br>
 • Network Environment: Local service ports must be accessible</br>
 
